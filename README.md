@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Rikagit/Rikagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+And welcome to my GitProfile.
 
-Here are some ideas to get you started:
+👩‍💻 My name is Rika
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 I'm based in Delft, the Netherlands
+
+💡 I'm currently learning to become a full stack developer, with the main focus being Javascript
+
+❤️‍🔥 My passion is learning new languages, puzzles and cooking
+
+:bar_chart: Before starting my dev training, I used to work in marketing
+
+🏛️ Fun fact: I speak 5 languages (3 of them fluently)
+
+:computer: Contact me via https://www.linkedin.com/in/rikaziamba
